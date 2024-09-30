@@ -26,7 +26,7 @@ export const PROJECTS = [
         title: "Carbon Emission Estimator (Research Project)",
         image: cfestimator,
         description: "CFEstimator is a carbon footprint calculator which is helpful for reducing carbon emissions. (e.g., to identify areas where we can mitigate our carbon emissions) To raise awareness of energy usage habits, it also provides carbon reduction activities. ",
-        technologies: ["HTML", "CSS", "Tailwind CSS", "PHP", "MySQL"]
+        technologies: ["HTML", "CSS", "Bootstrap", "PHP", "MySQL"]
     },
 
 ]
