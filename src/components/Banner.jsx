@@ -34,7 +34,7 @@ const Banner = () => {
                         variants={container(1)}
                         initial="hidden"
                         animate="visible"
-                        className="my-2 max-w-xl py-6 font-light text-xl text-justify">
+                        className="my-2 max-w-xl py-6 font-light text-justify">
                         I am a dedicated Software Developer with a Higher National Diploma in Software Engineering. With the technologies, I aim to build efficient business solutions. My ultimate goal is to grow into leadership roles such as CTO or DevOps Manager, combining all of my skills with a passion for strategic development and operational efficiency.
                     </motion.p>
 
