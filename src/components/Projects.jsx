@@ -26,7 +26,7 @@ const Projects = () => {
                             transition={{ duration: 1 }}
                             className="w-full max-w-xl">
                             <h6 className='mb-2 font-semibold text-xl'>{p.title}</h6>
-                            <p className='mb-4 text-neutral-400'>
+                            <p className='mb-4 text-lg text-neutral-400'>
                                 {p.description}
                             </p>
                             <div className='flex'>
