@@ -18,7 +18,7 @@ const ContactMe = () => {
                 whileInView={{ opacity: 1, x: 0 }}
                 initial={{ opacity: 0, x: -100 }}
                 transition={{ duration: 1 }}
-                className='text-center my-4'>39th st, between 81st st and 82nd st, Mandalay, Myanmar</motion.p>
+                className='text-center my-4'>Mandalay, Myanmar</motion.p>
 
             <motion.p
                 whileInView={{ opacity: 1, x: 0 }}
